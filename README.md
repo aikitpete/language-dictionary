@@ -1,5 +1,7 @@
 # language-dictionary
 
+> **Status:** old project (Java/Swing client and server), not maintained. The bundled Google Translate client library targets a retired API, so the translate feature will not work.
+
 A Java client–server dictionary and vocabulary learning application.
 
 This repository combines the original **language-dictionary-client** and **language-dictionary-server** projects into a single codebase. Together they form a simple end‑to‑end system for storing vocabulary data, serving dictionary queries, and providing a user-facing client interface.
